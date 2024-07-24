@@ -1,0 +1,1 @@
+dc_shell-xg-t -f script/script.tcl | tee -i ./logs/all.log
